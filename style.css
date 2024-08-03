@@ -1,0 +1,69 @@
+*{
+  font-family: montserrat;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  
+  
+}
+
+
+body{
+  line-height: 1.7;
+  background-color: lightgray;
+}
+
+.mypg{
+
+margin: 100px 0 200px 0;
+
+}
+.bigfont{
+  
+  font-size: 4rem;
+  text-shadow: 2px 2px 13px rgba(0, 0, 0, 0.5);
+}
+
+
+
+.card-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center;    
+    flex-wrap: wrap;     
+           
+}
+
+.card {
+    margin: 10px; 
+}
+
+.sect{
+  padding: 200px 0;
+  border :2px solid lightgray;
+  
+}
+h1{
+  
+  font-size: 4rem;
+  text-align: center;
+}
+
+  
+  .p1{
+
+    text-shadow:5px 2px 14px rgba(0, 0, 0, 5) ;
+  }
+}
+imng{
+  
+  transform
+}
+div img:hover{
+  width: 19rem;
+  box-shadow: 5px 2px 14px rgba(0, 0, 0, 0.5);
+}
+
+#bm{
+  padding: 80px 0;
+}
